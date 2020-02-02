@@ -1,4 +1,7 @@
 # Voice Classification
+
+![](https://img.shields.io/github/repo-size/daspeks/voice-classifier)
+
 Using a support vector machine (SVM) model to classify voice characteristics as either male or female.
 
 ## Result :rocket:
